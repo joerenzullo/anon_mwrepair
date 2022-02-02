@@ -2,7 +2,7 @@ This directory contains a modified version of the JARFly implementation of GenPr
 
 In order to execute the MWRepair search algorithm, a few things are needed:
 
-1. A fully-configured instance of JARFly. See README_JARFLY.md for setup details.
+1. A fully-configured instance of JARFly. See JARFLY_README.md for setup details.
 
 2. An installation of Defects4J. For code and instructions on configuration, see https://github.com/rjust/defects4j
 
